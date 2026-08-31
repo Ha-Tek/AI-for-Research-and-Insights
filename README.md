@@ -1,5 +1,5 @@
 
- # 1. Build with AI: Research report (with infographic)
+ # 1. Build with AI: Research report (with infographic) using Gemini Deep Research
 
 a. Demonstrate how to research market trends for a new paint line (source: Coursera)
 
