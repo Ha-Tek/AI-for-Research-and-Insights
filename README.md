@@ -1,5 +1,6 @@
 
 #1. Build with AI: Research report (with infographic)
+
 Project title: Demonstrate how to research market trends for a new paint line (source: Coursera)
  
 
