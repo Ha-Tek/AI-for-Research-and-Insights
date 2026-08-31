@@ -1,8 +1,10 @@
 
  # 1. Build with AI: Research report (with infographic)
 
-Demonstrate how to research market trends for a new paint line (source: Coursera)
- 
+a. Demonstrate how to research market trends for a new paint line (source: Coursera)
+
+ b. Research report (infographic) that synthesizes the research on incomplete pairwise comparison matrix completion (2021–2026): 
+ Infographic_pairwise_comparison_matrix_completion_research_2021_2026
 
 
 
